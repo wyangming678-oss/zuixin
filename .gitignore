@@ -1,7 +1,0 @@
-node_modules/
-.next/
-.wrangler/
-dist/
-*.log
-ui-check.png
-upload/
